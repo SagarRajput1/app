@@ -15,7 +15,7 @@ export default function SignUpScreen({ navigation }) {
 
     const signUp = async () => {
         try {
-            const response = await axios.post('http://192.168.100.21:5000/signup', {
+            const response = await axios.post('http://192.168.19.224:5000/signup', {
                 email,
                 username,
                 password
