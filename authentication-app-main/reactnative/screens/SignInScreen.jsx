@@ -10,7 +10,7 @@ export default function SignInScreen({ navigation }) {
 
     const signIn = async () => {
         try {
-            const response = await axios.post('http://192.168.100.21:5000/signin', {
+            const response = await axios.post('http://192.168.19.224:5000/signin', {
                 email,
                 password
             });
