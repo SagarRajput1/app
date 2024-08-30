@@ -11,7 +11,7 @@ export default function OTPVerificationScreen({ navigation }) {
     const verifyOTP = async () => {
         try {
             const email = await AsyncStorage.getItem('email');
-            const response = await axios.post("http://192.168.100.21:5000/verify-otp", {
+            const response = await axios.post("http://192.168.19.224:5000/verify-otp", {
                 email,
                 otp: otp1 + otp2 + otp3 + otp4
             });
