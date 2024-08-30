@@ -27,34 +27,6 @@ This project demonstrates the implementation of user-centric security features i
 - **Engagement**: Users can complete quizzes and track their progress.
 - **Goal**: To raise awareness and knowledge of security practices among users.
 
-## Screenshots
-
-### Sign Up Screen
-![Sign Up Screen]
-
-### Log In Screen
-![Log In Screen]
-
-### OTP Verification Screen
-![OTP Verification Screen]
-
-### OTP Verification Success
-![OTP Verification Success]
-
-## Video Demonstration
-
-A video showcasing the functionality of the app is available
-
-## Installation
-
-To run this project on your local machine:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/SagarRajput1/app.git
-    ```
-2. Open the project in Android Studio.
-3. Build and run the app on an Android device or emulator.
 
 ## License
 
