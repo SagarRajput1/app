@@ -29,7 +29,7 @@ This project demonstrates the implementation of user-centric security features i
 
 ## How to run the Application
 
-### Step 1. Export the source code in the Visuak Studio code
+### Step 1. Export the source code in the Visual Studio code
 ### Step 2. Install NPM in both reactnative & server and then give run command to both. For e.g. npm start for reactnative & npm run dev for the server.
 ### Step 3. Connect Mobile and Laptop with same network and then open the Expo Go application in your mobile and scan the QR code shown in reactnative terminal.
 ### Step 4. Now, application is ready to use for the end user.
