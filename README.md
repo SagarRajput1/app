@@ -31,8 +31,9 @@ This project demonstrates the implementation of user-centric security features i
 
 ### Step 1. Export the source code in the Visual Studio code
 ### Step 2. Install NPM in both reactnative & server and then give run command to both. For e.g. npm start for reactnative & npm run dev for the server.
-### Step 3. Connect Mobile and Laptop with same network and then open the Expo Go application in your mobile and scan the QR code shown in reactnative terminal.
-### Step 4. Now, application is ready to use for the end user.
+### Step 3. Change the IP address in the existing code to the running system. User have to change IP addrees in Screens where OTP, Sign up and sign in code is stored.  
+### Step 4. Connect Mobile and Laptop with same network and then open the Expo Go application in your mobile and scan the QR code shown in reactnative terminal.
+### Step 5. Now, application is ready to use for the end user.
 
 
 ## License
